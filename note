@@ -1,0 +1,2 @@
+git init : khoi tao local repository
+git add "ten file" : dua cac thay doi vao vung nho staging area
